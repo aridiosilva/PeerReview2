@@ -12,10 +12,6 @@ import org.junit.Test;
 import gamification.dao.daoPlayer;
 import gamification.entity.Player;
 
-/**
- * S04.02_TDD_ProjetoFinal / DaoPlayerTest.java
- * FIAP / RM30222 - Vagner Panarello
- */
 public class DaoPlayerTest {
 	
 	static daoPlayer dao; 

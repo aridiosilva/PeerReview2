@@ -7,10 +7,6 @@ import java.util.List;
 
 import org.jdom2.JDOMException;
 
-/**
- * S04.02_TDD_ProjetoFinal / Placar.java
- * FIAP / RM30222 - Vagner Panarello
- */
 public class Placar {
 	
 	private Armazenamento ar;

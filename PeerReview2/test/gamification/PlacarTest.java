@@ -14,10 +14,6 @@ import org.junit.Test;
 import gamification.app.Placar;
 import gamification.entity.Scores;
 
-/**
- * S04.02_TDD_ProjetoFinal / PlacarTest.java
- * FIAP / RM30222 - Vagner Panarello
- */
 public class PlacarTest {
 	
 	static Placar placar;
